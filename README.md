@@ -14,6 +14,6 @@ Since then, I decided to specialize in Python with a focus on Data Science to de
 **Background in:** Python, Excel, VBA, PowerBI, Arduino, Inspection Engineering, Truck Performance Data Analysis, Data Extraction using Web Services and Data Analytics.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/guilherme-de-almeida-2458b294/)
+* [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-2458b294)
 
 ---
